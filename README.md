@@ -69,7 +69,7 @@ for `α > 3` and `β > 0`. Otherwise, the skewness is not defined.
 ## Usage
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-skewness@v0.1.0-esm/index.mjs';
 ```
 
 #### skewness( alpha, beta )
@@ -151,7 +151,7 @@ v = skewness( 1.0, -1.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-skewness@v0.1.0-esm/index.mjs';
 
 var alpha;
 var beta;
