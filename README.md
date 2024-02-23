@@ -71,7 +71,7 @@ for `α > 3` and `β > 0`. Otherwise, the skewness is not defined.
 To use in Observable,
 
 ```javascript
-skewness = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-skewness@umd/browser.js' )
+skewness = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-skewness@v0.2.1-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -83,7 +83,7 @@ var skewness = require( 'path/to/vendor/umd/stats-base-dists-pareto-type1-skewne
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-skewness@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-skewness@v0.2.1-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -173,7 +173,7 @@ v = skewness( 1.0, -1.0 );
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-skewness@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-skewness@v0.2.1-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
