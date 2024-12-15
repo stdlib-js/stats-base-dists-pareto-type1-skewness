@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`cfc0665`](https://github.com/stdlib-js/stdlib/commit/cfc0665435a1f99158d7fed39b8873dea6aa6209) - **docs:** add missing private tag _(by Philipp Burckhardt)_
 -   [`a146971`](https://github.com/stdlib-js/stdlib/commit/a1469718890f5a007c6c7343757b621274dad0e0) - **feat:** add C implementation for `stats/base/dists/pareto-type1/skewness` [(#3927)](https://github.com/stdlib-js/stdlib/pull/3927) _(by Gururaj Gurram, Philipp Burckhardt)_
 
 </details>
